@@ -1,0 +1,12 @@
+{
+  "name": "Babak Bayat",
+  "short_name": "Babak",
+  "description": "Software developer. Web tools, Telegram bots, and writing.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0f18",
+  "theme_color": "#0a0f18",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
